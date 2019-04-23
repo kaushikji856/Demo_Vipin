@@ -7,7 +7,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>Spring-Boot-Project</name>
-	<description>Spring-Boot-Project-Example</description>
+	<description>Spring-Boot-Project-Example1</description>
 
 
 	<parent>
